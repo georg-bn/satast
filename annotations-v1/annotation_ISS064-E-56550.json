@@ -1,6 +1,0 @@
-{
-    "query_path": "data\\ISS064-E-56550\\@48.4@-122.6@46.8@-122.1@24@500@10@ISS064-E-56550@.jpg",
-    "pred_path": "data\\ISS064-E-56550\\pred_0__big_img__rot270__@48.22467@-123.04688@48.69096@-123.04688@48.69096@-122.34375@48.22467@-122.34375@11_0706_0324@2018@48.45782@-122.69531@2694@0@.jpg",
-    "homography": "ERROR: OpenCV(4.12.0) D:\\bld\\libopencv_1760191492522\\work\\modules\\imgproc\\src\\resize.cpp:4086: error: (-215:Assertion failed) func != 0 in function 'cv::hal::resize'\n",
-    "iterations_completed": 0
-}
