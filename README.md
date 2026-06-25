@@ -12,10 +12,10 @@ The benchmark is released as part of the RoMa v2 paper. For an example evaluatio
 
 Citation:
 ```
-@article{edstedt2025romav2,
+@inproceedings{edstedt2026romav2,
   title={{RoMa v2: Harder Better Faster Denser Feature Matching}},
   author={Johan Edstedt, David Nordström, Yushan Zhang, Georg Bökman, Jonathan Astermark, Viktor Larsson, Anders Heyden, Fredrik Kahl, Mårten Wadenbäck, Michael Felsberg},
-  journal={arXiv preprint arXiv:2511.15706},
-  year={2025}
+  booktitle={European Conference on Computer Vision},
+  year={2026}
 }
 ```
